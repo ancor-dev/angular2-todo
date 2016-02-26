@@ -4,16 +4,20 @@ Demo angular 2 application
 
 ### Usage
 
-1. Clone repository
-```bash
+1) Clone repository
+```
 git clone https://github.com/ancor-dev/angular2-todo.git angular2-todo
 ```
-2. Install dependencies
+2) Move to `angular2-todo` directory
+```
+cd angular2-todo
+```
+3) Install dependencies
 ```bash
 npm install
 ```
-3. Run building...
+4) Run building...
 ```bash
 npm start
 ```
-4. Go to http://localhost:3000
+5) Go to [http://localhost:3000](http://localhost:3000)
