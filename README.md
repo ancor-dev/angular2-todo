@@ -2,6 +2,8 @@
 
 Demo angular 2 application
 
+[presentation](https://raw.githubusercontent.com/ancor-dev/angular2-todo/master/presentation/angular-2-introduction.pdf)
+
 ### Usage
 
 1) Clone repository
