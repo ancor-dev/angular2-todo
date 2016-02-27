@@ -2,7 +2,10 @@
 
 Demo angular 2 application
 
-[presentation](https://raw.githubusercontent.com/ancor-dev/angular2-todo/master/presentation/angular-2-introduction.pdf)
+*These source code has been updated after it-event*
+[Original it-event sources](https://github.com/ancor-dev/angular2-todo/tree/v1.0.1)
+
+[Presentation](https://raw.githubusercontent.com/ancor-dev/angular2-todo/master/presentation/angular-2-introduction.pdf)
 
 ### Usage
 
