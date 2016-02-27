@@ -1,6 +1,6 @@
 import {Component, OnInit} from 'angular2/core';
 import {Checklist} from "./checklist";
-import {Task} from "./Task";
+import {Task} from "./task";
 
 @Component({
   selector: 'checklist',
