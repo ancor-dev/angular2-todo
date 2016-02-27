@@ -1,2 +1,7 @@
 <h2>Todo</h2>
-<checklist></checklist>
+<p>
+    <span>{{tasklist.countCompleted}} of {{tasklist.count}} remaining</span>
+    [<button class="btn btn-link" (click)="tasklist.removeCompleted()">archive</button>]
+</p>
+<tasklist [tasklist]="tasklist"></tasklist>
+<new-task (newTask)="tasklist.add($event)"></new-task>

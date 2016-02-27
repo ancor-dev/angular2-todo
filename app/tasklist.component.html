@@ -1,0 +1,8 @@
+<ul class="list-unstyled">
+    <li *ngFor="#task of tasklist.tasks">
+        <label class="checkbox">
+            <input type="checkbox" [(ngModel)]="task.done">
+            <span [class.task-done]="task.done">{{task.name}}</span>
+        </label>
+    </li>
+</ul>

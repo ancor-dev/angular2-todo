@@ -1,6 +1,6 @@
 import {Task} from "./task";
 
-export class Checklist {
+export class Tasklist {
 
   public tasks: Task[] = [];
 
